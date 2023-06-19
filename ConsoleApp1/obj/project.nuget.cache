@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/92ZtnxrOb7ayZXYLgAib2JvGnhgH16mm+PqzMqBfHZPdRGQXGwQMDsVI6dg0lJtHrk+HP1yJeRlD7b4EMeqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguyen van thong\\Source\\Repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguyen van thong\\.nuget\\packages\\oracle.manageddataaccess\\21.10.0\\oracle.manageddataaccess.21.10.0.nupkg.sha512",
+    "C:\\Users\\nguyen van thong\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\nguyen van thong\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\nguyen van thong\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "パッケージ 'Oracle.ManagedDataAccess 21.10.0' はプロジェクトのターゲット フレームワーク 'net6.0' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
+      "libraryId": "Oracle.ManagedDataAccess",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
